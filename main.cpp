@@ -32,7 +32,7 @@ std::string SortTypeNames[] = {
 };
 
 std::string DataSets[] = {
-    "Sorted (Ascending)",
+    "Sorted",
     "Random",
     "Reverse Sorted",
     "Partially Sorted",
