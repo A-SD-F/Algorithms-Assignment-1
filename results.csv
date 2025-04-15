@@ -1,0 +1,241 @@
+Algorithm,Dataset,Size,Time (ms),Space (KB)
+Merge Sort,Sorted (Ascending),1000,0.969,7.812
+Heap Sort,Sorted (Ascending),1000,0.685,3.918
+Bubble Sort,Sorted (Ascending),1000,0.013,3.918
+Insertion Sort,Sorted (Ascending),1000,0.026,4.883
+Selection Sort,Sorted (Ascending),1000,2.846,3.918
+Quick Sort,Sorted (Ascending),1000,14.742,4.062
+Library Sort,Sorted (Ascending),1000,40.553,4.883
+Tim Sort,Sorted (Ascending),1000,0.177,5.859
+Cocktail Shaker Sort,Sorted (Ascending),1000,0.011,4.883
+Comb Sort,Sorted (Ascending),1000,0.268,4.883
+Tournament Sort,Sorted (Ascending),1000,0.556,4.883
+Introsort,Sorted (Ascending),1000,1.317,5.859
+Merge Sort,Random,1000,1.51,7.812
+Heap Sort,Random,1000,0.865,3.918
+Bubble Sort,Random,1000,25.225,3.918
+Insertion Sort,Random,1000,3.408,4.883
+Selection Sort,Random,1000,3.471,3.918
+Quick Sort,Random,1000,0.36,4.062
+Library Sort,Random,1000,31.936,4.883
+Tim Sort,Random,1000,0.35,5.859
+Cocktail Shaker Sort,Random,1000,12.162,4.883
+Comb Sort,Random,1000,0.533,4.883
+Tournament Sort,Random,1000,0.712,4.883
+Introsort,Random,1000,0.51,5.859
+Merge Sort,Reverse Sorted,1000,1.087,7.812
+Heap Sort,Reverse Sorted,1000,0.667,3.918
+Bubble Sort,Reverse Sorted,1000,23.248,3.918
+Insertion Sort,Reverse Sorted,1000,7.569,4.883
+Selection Sort,Reverse Sorted,1000,4.568,3.918
+Quick Sort,Reverse Sorted,1000,11.116,4.062
+Library Sort,Reverse Sorted,1000,43.576,4.883
+Tim Sort,Reverse Sorted,1000,0.518,5.859
+Cocktail Shaker Sort,Reverse Sorted,1000,19.951,4.883
+Comb Sort,Reverse Sorted,1000,0.321,4.883
+Tournament Sort,Reverse Sorted,1000,0.502,4.883
+Introsort,Reverse Sorted,1000,0.757,5.859
+Merge Sort,Partially Sorted,1000,0.979,7.812
+Heap Sort,Partially Sorted,1000,0.539,3.918
+Bubble Sort,Partially Sorted,1000,17.008,3.918
+Insertion Sort,Partially Sorted,1000,2.014,4.883
+Selection Sort,Partially Sorted,1000,2.665,3.918
+Quick Sort,Partially Sorted,1000,0.379,4.062
+Library Sort,Partially Sorted,1000,34.812,4.883
+Tim Sort,Partially Sorted,1000,0.276,5.859
+Cocktail Shaker Sort,Partially Sorted,1000,7.187,4.883
+Comb Sort,Partially Sorted,1000,0.547,4.883
+Tournament Sort,Partially Sorted,1000,0.63,4.883
+Introsort,Partially Sorted,1000,0.338,5.859
+Merge Sort,Sorted (Ascending),2000,2.25,15.625
+Heap Sort,Sorted (Ascending),2000,1.253,7.824
+Bubble Sort,Sorted (Ascending),2000,0.028,7.824
+Insertion Sort,Sorted (Ascending),2000,0.035,9.766
+Selection Sort,Sorted (Ascending),2000,11.442,7.824
+Quick Sort,Sorted (Ascending),2000,58.945,7.983
+Library Sort,Sorted (Ascending),2000,179.615,9.766
+Tim Sort,Sorted (Ascending),2000,0.594,11.719
+Cocktail Shaker Sort,Sorted (Ascending),2000,0.059,9.766
+Comb Sort,Sorted (Ascending),2000,1.923,9.766
+Tournament Sort,Sorted (Ascending),2000,2.078,9.766
+Introsort,Sorted (Ascending),2000,3.23,11.719
+Merge Sort,Random,2000,2.38,15.625
+Heap Sort,Random,2000,1.416,7.824
+Bubble Sort,Random,2000,80.915,7.824
+Insertion Sort,Random,2000,14.777,9.766
+Selection Sort,Random,2000,11.063,7.824
+Quick Sort,Random,2000,0.676,7.983
+Library Sort,Random,2000,122.014,9.766
+Tim Sort,Random,2000,0.911,11.719
+Cocktail Shaker Sort,Random,2000,45.156,9.766
+Comb Sort,Random,2000,1.02,9.766
+Tournament Sort,Random,2000,1.311,9.766
+Introsort,Random,2000,0.845,11.719
+Merge Sort,Reverse Sorted,2000,2.366,15.625
+Heap Sort,Reverse Sorted,2000,1.437,7.824
+Bubble Sort,Reverse Sorted,2000,97.705,7.824
+Insertion Sort,Reverse Sorted,2000,27.245,9.766
+Selection Sort,Reverse Sorted,2000,15.29,7.824
+Quick Sort,Reverse Sorted,2000,35.282,7.983
+Library Sort,Reverse Sorted,2000,127.239,9.766
+Tim Sort,Reverse Sorted,2000,0.846,11.719
+Cocktail Shaker Sort,Reverse Sorted,2000,70.955,9.766
+Comb Sort,Reverse Sorted,2000,0.96,9.766
+Tournament Sort,Reverse Sorted,2000,1.227,9.766
+Introsort,Reverse Sorted,2000,2.189,11.719
+Merge Sort,Partially Sorted,2000,2.511,15.625
+Heap Sort,Partially Sorted,2000,1.291,7.824
+Bubble Sort,Partially Sorted,2000,76.188,7.824
+Insertion Sort,Partially Sorted,2000,7.792,9.766
+Selection Sort,Partially Sorted,2000,11.485,7.824
+Quick Sort,Partially Sorted,2000,1.076,7.983
+Library Sort,Partially Sorted,2000,139.649,9.766
+Tim Sort,Partially Sorted,2000,0.841,11.719
+Cocktail Shaker Sort,Partially Sorted,2000,45.096,9.766
+Comb Sort,Partially Sorted,2000,2.33,9.766
+Tournament Sort,Partially Sorted,2000,2.793,9.766
+Introsort,Partially Sorted,2000,3.072,11.719
+Merge Sort,Sorted (Ascending),5000,11.522,39.062
+Heap Sort,Sorted (Ascending),5000,5.202,19.543
+Bubble Sort,Sorted (Ascending),5000,0.091,19.543
+Insertion Sort,Sorted (Ascending),5000,0.086,24.414
+Selection Sort,Sorted (Ascending),5000,61.108,19.543
+Quick Sort,Sorted (Ascending),5000,349.37,19.723
+Library Sort,Sorted (Ascending),5000,1065.783,24.414
+Tim Sort,Sorted (Ascending),5000,1.929,29.297
+Cocktail Shaker Sort,Sorted (Ascending),5000,0.062,24.414
+Comb Sort,Sorted (Ascending),5000,2.298,24.414
+Tournament Sort,Sorted (Ascending),5000,3.48,24.414
+Introsort,Sorted (Ascending),5000,8.403,29.297
+Merge Sort,Random,5000,6.066,39.062
+Heap Sort,Random,5000,4.158,19.543
+Bubble Sort,Random,5000,559.631,19.543
+Insertion Sort,Random,5000,88.88,24.414
+Selection Sort,Random,5000,63.179,19.543
+Quick Sort,Random,5000,2.139,19.723
+Library Sort,Random,5000,782.164,24.414
+Tim Sort,Random,5000,2.242,29.297
+Cocktail Shaker Sort,Random,5000,298.347,24.414
+Comb Sort,Random,5000,3.943,24.414
+Tournament Sort,Random,5000,5.352,24.414
+Introsort,Random,5000,3.595,29.297
+Merge Sort,Reverse Sorted,5000,9.538,39.062
+Heap Sort,Reverse Sorted,5000,6.075,19.543
+Bubble Sort,Reverse Sorted,5000,876.927,19.543
+Insertion Sort,Reverse Sorted,5000,303.27,24.414
+Selection Sort,Reverse Sorted,5000,102.943,19.543
+Quick Sort,Reverse Sorted,5000,220.177,19.723
+Library Sort,Reverse Sorted,5000,790.265,24.414
+Tim Sort,Reverse Sorted,5000,2.372,29.297
+Cocktail Shaker Sort,Reverse Sorted,5000,388.309,24.414
+Comb Sort,Reverse Sorted,5000,1.962,24.414
+Tournament Sort,Reverse Sorted,5000,3.207,24.414
+Introsort,Reverse Sorted,5000,5.205,29.297
+Merge Sort,Partially Sorted,5000,5.219,39.062
+Heap Sort,Partially Sorted,5000,3.598,19.543
+Bubble Sort,Partially Sorted,5000,409.948,19.543
+Insertion Sort,Partially Sorted,5000,49.355,24.414
+Selection Sort,Partially Sorted,5000,56.988,19.543
+Quick Sort,Partially Sorted,5000,2.075,19.723
+Library Sort,Partially Sorted,5000,786.376,24.414
+Tim Sort,Partially Sorted,5000,1.737,29.297
+Cocktail Shaker Sort,Partially Sorted,5000,170.222,24.414
+Comb Sort,Partially Sorted,5000,3.114,24.414
+Tournament Sort,Partially Sorted,5000,3.355,24.414
+Introsort,Partially Sorted,5000,1.73,29.297
+Merge Sort,Sorted (Ascending),10000,9.542,78.125
+Heap Sort,Sorted (Ascending),10000,7.861,39.074
+Bubble Sort,Sorted (Ascending),10000,0.103,39.074
+Insertion Sort,Sorted (Ascending),10000,0.134,48.828
+Selection Sort,Sorted (Ascending),10000,234.364,39.074
+Quick Sort,Sorted (Ascending),10000,1589.827,39.27
+Library Sort,Sorted (Ascending),10000,4014.986,48.828
+Tim Sort,Sorted (Ascending),10000,3.071,58.594
+Cocktail Shaker Sort,Sorted (Ascending),10000,0.116,48.828
+Comb Sort,Sorted (Ascending),10000,4.103,48.828
+Tournament Sort,Sorted (Ascending),10000,6.739,48.828
+Introsort,Sorted (Ascending),10000,14.12,58.594
+Merge Sort,Random,10000,14.302,78.125
+Heap Sort,Random,10000,8.69,39.074
+Bubble Sort,Random,10000,2162.514,39.074
+Insertion Sort,Random,10000,307.29,48.828
+Selection Sort,Random,10000,241.29,39.074
+Quick Sort,Random,10000,3.756,39.27
+Library Sort,Random,10000,3186.86,48.828
+Tim Sort,Random,10000,6.781,58.594
+Cocktail Shaker Sort,Random,10000,1063.007,48.828
+Comb Sort,Random,10000,9.731,48.828
+Tournament Sort,Random,10000,9.084,48.828
+Introsort,Random,10000,4.453,58.594
+Merge Sort,Reverse Sorted,10000,12.341,78.125
+Heap Sort,Reverse Sorted,10000,9.077,39.074
+Bubble Sort,Reverse Sorted,10000,2711.763,39.074
+Insertion Sort,Reverse Sorted,10000,616.675,48.828
+Selection Sort,Reverse Sorted,10000,332.501,39.074
+Quick Sort,Reverse Sorted,10000,785.84,39.27
+Library Sort,Reverse Sorted,10000,3226.995,48.828
+Tim Sort,Reverse Sorted,10000,6.359,58.594
+Cocktail Shaker Sort,Reverse Sorted,10000,1659.839,48.828
+Comb Sort,Reverse Sorted,10000,9.798,48.828
+Tournament Sort,Reverse Sorted,10000,10.544,48.828
+Introsort,Reverse Sorted,10000,18.365,58.594
+Merge Sort,Partially Sorted,10000,15.689,78.125
+Heap Sort,Partially Sorted,10000,12.551,39.074
+Bubble Sort,Partially Sorted,10000,1873.368,39.074
+Insertion Sort,Partially Sorted,10000,196.583,48.828
+Selection Sort,Partially Sorted,10000,244.987,39.074
+Quick Sort,Partially Sorted,10000,5.956,39.27
+Library Sort,Partially Sorted,10000,3562.651,48.828
+Tim Sort,Partially Sorted,10000,4.337,58.594
+Cocktail Shaker Sort,Partially Sorted,10000,610.052,48.828
+Comb Sort,Partially Sorted,10000,10.676,48.828
+Tournament Sort,Partially Sorted,10000,9.493,48.828
+Introsort,Partially Sorted,10000,4.023,58.594
+Merge Sort,Sorted (Ascending),20000,21.398,156.25
+Heap Sort,Sorted (Ascending),20000,16.444,78.137
+Bubble Sort,Sorted (Ascending),20000,0.248,78.137
+Insertion Sort,Sorted (Ascending),20000,0.39,97.656
+Selection Sort,Sorted (Ascending),20000,1017.517,78.137
+Quick Sort,Sorted (Ascending),20000,6016.665,78.348
+Library Sort,Sorted (Ascending),20000,16561.423,97.656
+Tim Sort,Sorted (Ascending),20000,6.436,117.188
+Cocktail Shaker Sort,Sorted (Ascending),20000,0.294,97.656
+Comb Sort,Sorted (Ascending),20000,8.418,97.656
+Tournament Sort,Sorted (Ascending),20000,14.946,97.656
+Introsort,Sorted (Ascending),20000,30.664,117.188
+Merge Sort,Random,20000,24.649,156.25
+Heap Sort,Random,20000,16.001,78.137
+Bubble Sort,Random,20000,8306.995,78.137
+Insertion Sort,Random,20000,1359.955,97.656
+Selection Sort,Random,20000,983.948,78.137
+Quick Sort,Random,20000,12.958,78.348
+Library Sort,Random,20000,12456.601,97.656
+Tim Sort,Random,20000,11.859,117.188
+Cocktail Shaker Sort,Random,20000,4394.937,97.656
+Comb Sort,Random,20000,14.281,97.656
+Tournament Sort,Random,20000,20.379,97.656
+Introsort,Random,20000,7.818,117.188
+Merge Sort,Reverse Sorted,20000,18.184,156.25
+Heap Sort,Reverse Sorted,20000,15.066,78.137
+Bubble Sort,Reverse Sorted,20000,9709.651,78.137
+Insertion Sort,Reverse Sorted,20000,2578.882,97.656
+Selection Sort,Reverse Sorted,20000,1377.879,78.137
+Quick Sort,Reverse Sorted,20000,3422.716,78.348
+Library Sort,Reverse Sorted,20000,13432.981,97.656
+Tim Sort,Reverse Sorted,20000,15.788,117.188
+Cocktail Shaker Sort,Reverse Sorted,20000,7081.125,97.656
+Comb Sort,Reverse Sorted,20000,18.007,97.656
+Tournament Sort,Reverse Sorted,20000,28.356,97.656
+Introsort,Reverse Sorted,20000,43.839,117.188
+Merge Sort,Partially Sorted,20000,32.116,156.25
+Heap Sort,Partially Sorted,20000,19.4,78.137
+Bubble Sort,Partially Sorted,20000,7496.675,78.137
+Insertion Sort,Partially Sorted,20000,814.377,97.656
+Selection Sort,Partially Sorted,20000,1151.954,78.137
+Quick Sort,Partially Sorted,20000,8.546,78.348
+Library Sort,Partially Sorted,20000,13478.846,97.656
+Tim Sort,Partially Sorted,20000,9.834,117.188
+Cocktail Shaker Sort,Partially Sorted,20000,2496.509,97.656
+Comb Sort,Partially Sorted,20000,13.529,97.656
+Tournament Sort,Partially Sorted,20000,15.723,97.656
+Introsort,Partially Sorted,20000,8.925,117.188
